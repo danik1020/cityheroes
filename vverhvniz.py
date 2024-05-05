@@ -26,7 +26,7 @@ class Ball:
 
 def main():
     tk = Tk()
-    tk.title("хуй")
+    tk.title("kolosiki2")
     tk.resizable(0, 0)
     tk.wm_attributes("-topmost", 1)
     canvas = Canvas(tk, bg="white", width=500, height=400, bd=0, highlightthickness=0)
